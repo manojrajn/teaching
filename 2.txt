@@ -1,3 +1,5 @@
 This is changes 1 made in reb !
 
 This is changes 1 made for rebase check.
+
+This it to check and learn merge conflict!
