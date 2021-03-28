@@ -1,2 +1,3 @@
 Hi this is batch file !
 This entry is needed!
+Make it necessary!
